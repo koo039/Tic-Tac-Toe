@@ -1,8 +1,7 @@
 ## Tic-Tac-Toe
 
 
-Tic-Tac-Toe 2-player game( C programmed) using basic C functions.
-This is for beginners who want build a Tic-Tac-Toe game.
+Experience a classic 2-player Tic-Tac-Toe game crafted in C programming language, leveraging fundamental C functions. Ideal for aspiring developers seeking to embark on their journey in game development with the creation of a timeless Tic-Tac-Toe experience
 
 ScreenShots from Game:
 

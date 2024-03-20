@@ -103,4 +103,3 @@ int checkwin( char t[] ){
     else d=0;
 return d;
 }
-
